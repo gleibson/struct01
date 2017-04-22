@@ -1,12 +1,6 @@
 #include<iostream>
+#include "struct01.h"
 
-struct inflatable
-{
-	char name[20];
-	float volume;
-	double price;
-
-};
 
 int main()
 {
